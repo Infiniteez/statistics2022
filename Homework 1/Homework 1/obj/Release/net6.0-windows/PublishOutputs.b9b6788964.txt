@@ -1,0 +1,5 @@
+C:\Users\Andrea\Desktop\Statistics Homeworks\1\app\Homework 1\Homework 1\bin\Release\net6.0-windows\publish\Homework 1.exe
+C:\Users\Andrea\Desktop\Statistics Homeworks\1\app\Homework 1\Homework 1\bin\Release\net6.0-windows\publish\Homework 1.dll
+C:\Users\Andrea\Desktop\Statistics Homeworks\1\app\Homework 1\Homework 1\bin\Release\net6.0-windows\publish\Homework 1.deps.json
+C:\Users\Andrea\Desktop\Statistics Homeworks\1\app\Homework 1\Homework 1\bin\Release\net6.0-windows\publish\Homework 1.runtimeconfig.json
+C:\Users\Andrea\Desktop\Statistics Homeworks\1\app\Homework 1\Homework 1\bin\Release\net6.0-windows\publish\Homework 1.pdb

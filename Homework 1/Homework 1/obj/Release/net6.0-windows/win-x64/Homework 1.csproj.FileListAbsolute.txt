@@ -1,0 +1,17 @@
+C:\Users\Andrea\Desktop\Statistics Homeworks\1\app\Homework 1\Homework 1\bin\Release\net6.0-windows\win-x64\Homework 1.exe
+C:\Users\Andrea\Desktop\Statistics Homeworks\1\app\Homework 1\Homework 1\bin\Release\net6.0-windows\win-x64\Homework 1.deps.json
+C:\Users\Andrea\Desktop\Statistics Homeworks\1\app\Homework 1\Homework 1\bin\Release\net6.0-windows\win-x64\Homework 1.runtimeconfig.json
+C:\Users\Andrea\Desktop\Statistics Homeworks\1\app\Homework 1\Homework 1\bin\Release\net6.0-windows\win-x64\Homework 1.dll
+C:\Users\Andrea\Desktop\Statistics Homeworks\1\app\Homework 1\Homework 1\bin\Release\net6.0-windows\win-x64\Homework 1.pdb
+C:\Users\Andrea\Desktop\Statistics Homeworks\1\app\Homework 1\Homework 1\obj\Release\net6.0-windows\win-x64\Homework 1.csproj.AssemblyReference.cache
+C:\Users\Andrea\Desktop\Statistics Homeworks\1\app\Homework 1\Homework 1\obj\Release\net6.0-windows\win-x64\Homework_1.Form1.resources
+C:\Users\Andrea\Desktop\Statistics Homeworks\1\app\Homework 1\Homework 1\obj\Release\net6.0-windows\win-x64\Homework 1.csproj.GenerateResource.cache
+C:\Users\Andrea\Desktop\Statistics Homeworks\1\app\Homework 1\Homework 1\obj\Release\net6.0-windows\win-x64\Homework 1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Andrea\Desktop\Statistics Homeworks\1\app\Homework 1\Homework 1\obj\Release\net6.0-windows\win-x64\Homework 1.AssemblyInfoInputs.cache
+C:\Users\Andrea\Desktop\Statistics Homeworks\1\app\Homework 1\Homework 1\obj\Release\net6.0-windows\win-x64\Homework 1.AssemblyInfo.cs
+C:\Users\Andrea\Desktop\Statistics Homeworks\1\app\Homework 1\Homework 1\obj\Release\net6.0-windows\win-x64\Homework 1.csproj.CoreCompileInputs.cache
+C:\Users\Andrea\Desktop\Statistics Homeworks\1\app\Homework 1\Homework 1\obj\Release\net6.0-windows\win-x64\Homework 1.dll
+C:\Users\Andrea\Desktop\Statistics Homeworks\1\app\Homework 1\Homework 1\obj\Release\net6.0-windows\win-x64\refint\Homework 1.dll
+C:\Users\Andrea\Desktop\Statistics Homeworks\1\app\Homework 1\Homework 1\obj\Release\net6.0-windows\win-x64\Homework 1.pdb
+C:\Users\Andrea\Desktop\Statistics Homeworks\1\app\Homework 1\Homework 1\obj\Release\net6.0-windows\win-x64\Homework 1.genruntimeconfig.cache
+C:\Users\Andrea\Desktop\Statistics Homeworks\1\app\Homework 1\Homework 1\obj\Release\net6.0-windows\win-x64\ref\Homework 1.dll

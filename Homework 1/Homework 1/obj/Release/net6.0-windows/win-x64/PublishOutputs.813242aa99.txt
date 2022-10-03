@@ -1,0 +1,2 @@
+C:\Users\Andrea\Desktop\Statistics Homeworks\1\app\Homework 1\Homework 1\bin\Release\net6.0-windows\publish\win-x64\Homework 1.pdb
+C:\Users\Andrea\Desktop\Statistics Homeworks\1\app\Homework 1\Homework 1\bin\Release\net6.0-windows\publish\win-x64\Homework 1.exe
