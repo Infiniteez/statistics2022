@@ -1,0 +1,17 @@
+C:\Users\Andrea\Desktop\Statistics Homeworks\1\app\Homework 2_RANDOMTIMER\Homework 2_RANDOMTIMER\bin\Debug\net6.0-windows\Homework 2_RANDOMTIMER.exe
+C:\Users\Andrea\Desktop\Statistics Homeworks\1\app\Homework 2_RANDOMTIMER\Homework 2_RANDOMTIMER\bin\Debug\net6.0-windows\Homework 2_RANDOMTIMER.deps.json
+C:\Users\Andrea\Desktop\Statistics Homeworks\1\app\Homework 2_RANDOMTIMER\Homework 2_RANDOMTIMER\bin\Debug\net6.0-windows\Homework 2_RANDOMTIMER.runtimeconfig.json
+C:\Users\Andrea\Desktop\Statistics Homeworks\1\app\Homework 2_RANDOMTIMER\Homework 2_RANDOMTIMER\bin\Debug\net6.0-windows\Homework 2_RANDOMTIMER.dll
+C:\Users\Andrea\Desktop\Statistics Homeworks\1\app\Homework 2_RANDOMTIMER\Homework 2_RANDOMTIMER\bin\Debug\net6.0-windows\Homework 2_RANDOMTIMER.pdb
+C:\Users\Andrea\Desktop\Statistics Homeworks\1\app\Homework 2_RANDOMTIMER\Homework 2_RANDOMTIMER\obj\Debug\net6.0-windows\Homework 2_RANDOMTIMER.csproj.AssemblyReference.cache
+C:\Users\Andrea\Desktop\Statistics Homeworks\1\app\Homework 2_RANDOMTIMER\Homework 2_RANDOMTIMER\obj\Debug\net6.0-windows\Homework_2_RANDOMTIMER.Form1.resources
+C:\Users\Andrea\Desktop\Statistics Homeworks\1\app\Homework 2_RANDOMTIMER\Homework 2_RANDOMTIMER\obj\Debug\net6.0-windows\Homework 2_RANDOMTIMER.csproj.GenerateResource.cache
+C:\Users\Andrea\Desktop\Statistics Homeworks\1\app\Homework 2_RANDOMTIMER\Homework 2_RANDOMTIMER\obj\Debug\net6.0-windows\Homework 2_RANDOMTIMER.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Andrea\Desktop\Statistics Homeworks\1\app\Homework 2_RANDOMTIMER\Homework 2_RANDOMTIMER\obj\Debug\net6.0-windows\Homework 2_RANDOMTIMER.AssemblyInfoInputs.cache
+C:\Users\Andrea\Desktop\Statistics Homeworks\1\app\Homework 2_RANDOMTIMER\Homework 2_RANDOMTIMER\obj\Debug\net6.0-windows\Homework 2_RANDOMTIMER.AssemblyInfo.cs
+C:\Users\Andrea\Desktop\Statistics Homeworks\1\app\Homework 2_RANDOMTIMER\Homework 2_RANDOMTIMER\obj\Debug\net6.0-windows\Homework 2_RANDOMTIMER.csproj.CoreCompileInputs.cache
+C:\Users\Andrea\Desktop\Statistics Homeworks\1\app\Homework 2_RANDOMTIMER\Homework 2_RANDOMTIMER\obj\Debug\net6.0-windows\Homework 2_RANDOMTIMER.dll
+C:\Users\Andrea\Desktop\Statistics Homeworks\1\app\Homework 2_RANDOMTIMER\Homework 2_RANDOMTIMER\obj\Debug\net6.0-windows\refint\Homework 2_RANDOMTIMER.dll
+C:\Users\Andrea\Desktop\Statistics Homeworks\1\app\Homework 2_RANDOMTIMER\Homework 2_RANDOMTIMER\obj\Debug\net6.0-windows\Homework 2_RANDOMTIMER.pdb
+C:\Users\Andrea\Desktop\Statistics Homeworks\1\app\Homework 2_RANDOMTIMER\Homework 2_RANDOMTIMER\obj\Debug\net6.0-windows\Homework 2_RANDOMTIMER.genruntimeconfig.cache
+C:\Users\Andrea\Desktop\Statistics Homeworks\1\app\Homework 2_RANDOMTIMER\Homework 2_RANDOMTIMER\obj\Debug\net6.0-windows\ref\Homework 2_RANDOMTIMER.dll
