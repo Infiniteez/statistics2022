@@ -1,0 +1,17 @@
+C:\Users\Andrea\Desktop\uni\Statistics Homeworks\4\Homework 7\Homework 7\bin\Debug\net6.0-windows\Homework 7.exe
+C:\Users\Andrea\Desktop\uni\Statistics Homeworks\4\Homework 7\Homework 7\bin\Debug\net6.0-windows\Homework 7.deps.json
+C:\Users\Andrea\Desktop\uni\Statistics Homeworks\4\Homework 7\Homework 7\bin\Debug\net6.0-windows\Homework 7.runtimeconfig.json
+C:\Users\Andrea\Desktop\uni\Statistics Homeworks\4\Homework 7\Homework 7\bin\Debug\net6.0-windows\Homework 7.dll
+C:\Users\Andrea\Desktop\uni\Statistics Homeworks\4\Homework 7\Homework 7\bin\Debug\net6.0-windows\Homework 7.pdb
+C:\Users\Andrea\Desktop\uni\Statistics Homeworks\4\Homework 7\Homework 7\obj\Debug\net6.0-windows\Homework 7.csproj.AssemblyReference.cache
+C:\Users\Andrea\Desktop\uni\Statistics Homeworks\4\Homework 7\Homework 7\obj\Debug\net6.0-windows\Homework_7.Form1.resources
+C:\Users\Andrea\Desktop\uni\Statistics Homeworks\4\Homework 7\Homework 7\obj\Debug\net6.0-windows\Homework 7.csproj.GenerateResource.cache
+C:\Users\Andrea\Desktop\uni\Statistics Homeworks\4\Homework 7\Homework 7\obj\Debug\net6.0-windows\Homework 7.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Andrea\Desktop\uni\Statistics Homeworks\4\Homework 7\Homework 7\obj\Debug\net6.0-windows\Homework 7.AssemblyInfoInputs.cache
+C:\Users\Andrea\Desktop\uni\Statistics Homeworks\4\Homework 7\Homework 7\obj\Debug\net6.0-windows\Homework 7.AssemblyInfo.cs
+C:\Users\Andrea\Desktop\uni\Statistics Homeworks\4\Homework 7\Homework 7\obj\Debug\net6.0-windows\Homework 7.csproj.CoreCompileInputs.cache
+C:\Users\Andrea\Desktop\uni\Statistics Homeworks\4\Homework 7\Homework 7\obj\Debug\net6.0-windows\Homework 7.dll
+C:\Users\Andrea\Desktop\uni\Statistics Homeworks\4\Homework 7\Homework 7\obj\Debug\net6.0-windows\refint\Homework 7.dll
+C:\Users\Andrea\Desktop\uni\Statistics Homeworks\4\Homework 7\Homework 7\obj\Debug\net6.0-windows\Homework 7.pdb
+C:\Users\Andrea\Desktop\uni\Statistics Homeworks\4\Homework 7\Homework 7\obj\Debug\net6.0-windows\Homework 7.genruntimeconfig.cache
+C:\Users\Andrea\Desktop\uni\Statistics Homeworks\4\Homework 7\Homework 7\obj\Debug\net6.0-windows\ref\Homework 7.dll
